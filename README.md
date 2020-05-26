@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <img src="./src/assets/github.gif" height="175" width="175" alt="Unform" />
 </p>
@@ -37,4 +37,4 @@ MIT © [Rocketseat](https://github.com/Rocketseat)
 =======
 # repository-list
 Search the repository on gitHub. Using your API - Technologies [ReactJs]
->>>>>>> 052176fcb4e7522e5fc3b9dc1094a7d416edb713
+
